@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2022-05-10T09:32:01</DateModified>
+  <DateModified>2022-05-12T20:14:06</DateModified>
   <ModuleName>bechaw</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Users/barsu/Desktop/sugarr/Gitcontr/Typing-Tutor-Spartan/PROJEKTTEST/Test/iseconfig/bechaw.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/barsu/Desktop/sugarr/Gitcontr/Typing-Tutor-Spartan/PROJEKTTEST/Test</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Users/barsu/Desktop/sugarr/Gitcontr/Typing-Tutor-Spartan/PROJEKTTEST/Test\</ImplementationReportsDirectory>
   <DateInitialized>2022-05-10T09:32:01</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
